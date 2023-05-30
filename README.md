@@ -66,4 +66,4 @@ This is a simple HTML/CSS mock-up of the YouTube homepage interface.
 **Source**:
 https://www.youtube.com/watch?v=rhPSo4_Tgi0&ab_channel=WebDevSimplified
 
-_Last Updated 5/26/2023_
+_Last Updated 5/30/2023_
